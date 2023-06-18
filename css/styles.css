@@ -142,6 +142,9 @@ body {
     background-color:#F4F4FD;
 }
 
+.list .our-team {
+    background-color: #FFFFFF;
+}
 
 .our .team {
     color: #2E2F42;
@@ -156,7 +159,7 @@ body {
 .list .our-team .job {
     background-color: #FFFFFF;
     letter-spacing: 0.02em;
-    color: #2E2F42;
+    color: #434455;
     line-height: 1.5;
     font-size: 16px;
     font-weight: 500;
