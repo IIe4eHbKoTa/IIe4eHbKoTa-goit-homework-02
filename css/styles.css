@@ -153,22 +153,23 @@ body {
     font-weight:700 ;
 }
 
-.team .list .our-team {
+.list .our-team .job {
     background-color: #FFFFFF;
     letter-spacing: 0.02em;
     color: #2E2F42;
-    line-height: 1.2;
-    font-size: 20px;
+    line-height: 1.5;
+    font-size: 16px;
     font-weight: 500;
 }
 
 .our-team .human {
-    font-weight: 500;
     color: #2E2F42;
     letter-spacing: 0.02em;
-    line-height: 1.5;
-    font-size: 16px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
 }
+
 
 .footer {
     background-color: #2E2F42;
@@ -210,6 +211,7 @@ body {
 
 .list .link {
     background-color:#E7E9FC ;
+    text-decoration: none;
 }
 
 .list .link .portfolio-job {
